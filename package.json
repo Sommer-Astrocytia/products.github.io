@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
-  },
-  "scripts": {
-    "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://Sommer-Astrocytia.github.io/products.github.io"
-}
